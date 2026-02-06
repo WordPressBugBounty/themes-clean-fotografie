@@ -2,7 +2,7 @@
 Contributors: catchthemes
 Tags: one-column, two-columns, left-sidebar, right-sidebar,  flexible-header, custom-background, custom-logo, custom-header, custom-menu, editor-style, featured-image-header, featured-images, footer-widgets, rtl-language-support, translation-ready, blog, photography, portfolio
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -48,6 +48,9 @@ You can check our Theme Demo at https://catchthemes.com/demo/clean-fotografie/
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 1.5.1 (Released: December 14, 2025) =
+* Updated: WordPress 6.9 ready
 
 = 1.5 (Released: June 17, 2025) =
 * Added: Twitter X, TikTok, Bluesky, Threads, Telegram, Discord, Line, Xing and Vk icons
